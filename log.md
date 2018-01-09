@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 1: January 8th, 2018
+
+**Today's Progress**: Signed up for a 12-month Front-End Developer online course with an institution based in Europe called Open Classrooms. Off-the-bat I was given assignments such as: typing up a Word doc answering some questions, updating my resume, updating my linkedin, and creating a study journal (this 100-days-of-code repo will act as such.) 
+
+Afterwards I learned some preliminary stuff regarding the differences between "the web" and "the internet." I also completed a short quiz and received 90%.
+
+**Thoughts:** Everything is so fresh and new. I feel like the information is being provided in bite-sized doses which is really nice and not too overwhelming. I'm interested to see how this curriculum pans out in the months to come. 😀
+
+---
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
