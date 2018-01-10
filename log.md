@@ -8,6 +8,13 @@ Afterwards I learned some preliminary stuff regarding the differences between "t
 
 **Thoughts:** Everything is so fresh and new. I feel like the information is being provided in bite-sized doses which is really nice and not too overwhelming. I'm interested to see how this curriculum pans out in the months to come. 😀
 
+
+### Day 2: January 9th, 2018
+
+**Today's Progress**: I completed my entire "Learn how to learn!" module and got 100% on 3 of my quizzes. I began the next module "Integrate a WordPress theme for a client" and opted to begin the HTML/CSS course first, but instead of completing it thoroughly I attempted to install a live-server from an old tutorial wrote up a while back. 
+
+Unfortunately, my live-server doesn't reload my page nor did a different plugin called Browser Sync work either. If I'm going to continue these modules, I prefer to have my web pages reload in real-time. Hum. A problem to be solved on another day.
+
 ---
 
 ### Day 0: February 30, 2016 (Example 1)
