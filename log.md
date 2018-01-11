@@ -15,6 +15,12 @@ Afterwards I learned some preliminary stuff regarding the differences between "t
 
 Unfortunately, my live-server doesn't reload my page nor did a different plugin called Browser Sync work either. If I'm going to continue these modules, I prefer to have my web pages reload in real-time. Hum. A problem to be solved on another day.
 
+### Day 3: January 10th, 2018
+
+**Today's Progress**: I completed both the Your first web page in HTML and Organizing your text sections on (OC).
+
+**Thoughts:** Everything thus far is a reintroduction to what I already know, but may have forgotten due to months of not practicing the code. I can't help but feel there might be a better way to learn this material. I have been exposed to so many sources and methods of learning, I am questioning if I should reaasses and determine the most preferable way for me to learn.
+
 ---
 
 ### Day 0: February 30, 2016 (Example 1)
