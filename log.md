@@ -21,6 +21,12 @@ Unfortunately, my live-server doesn't reload my page nor did a different plugin 
 
 **Thoughts:** Everything thus far is a reintroduction to what I already know, but may have forgotten due to months of not practicing the code. I can't help but feel there might be a better way to learn this material. I have been exposed to so many sources and methods of learning, I am questioning if I should reaasses and determine the most preferable way for me to learn.
 
+
+### Day 4: January 11th, 2018
+
+**Today's Progress**: I skivved Open Classrooms today and instead organized and reviewed 74 saved Web Development-related posts I had on Facebook. Additionally I reviewed a few Reddit posts re: preferred methods and websites to learn Front-End Development. I participated in a very brief introduction of Udacity's Front-End Development path and I was impressed by their cinematography and narration, but need to engage more with their interactive system to make a firm conclusion on if I should enroll with them instead.
+
+**Thoughts:** I need to thoroughly filter and review all my resources to determine which way of learning is best suitable for me.
 ---
 
 ### Day 0: February 30, 2016 (Example 1)
