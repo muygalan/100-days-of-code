@@ -27,6 +27,7 @@ Unfortunately, my live-server doesn't reload my page nor did a different plugin 
 **Today's Progress**: I skivved Open Classrooms today and instead organized and reviewed 74 saved Web Development-related posts I had on Facebook. Additionally I reviewed a few Reddit posts re: preferred methods and websites to learn Front-End Development. I participated in a very brief introduction of Udacity's Front-End Development path and I was impressed by their cinematography and narration, but need to engage more with their interactive system to make a firm conclusion on if I should enroll with them instead.
 
 **Thoughts:** I need to thoroughly filter and review all my resources to determine which way of learning is best suitable for me.
+
 ---
 
 ### Day 0: February 30, 2016 (Example 1)
