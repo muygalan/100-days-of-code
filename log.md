@@ -28,6 +28,13 @@ Unfortunately, my live-server doesn't reload my page nor did a different plugin 
 
 **Thoughts:** I need to thoroughly filter and review all my resources to determine which way of learning is best suitable for me.
 
+
+### Day 5: January 12th, 2018
+
+**Today's Progress**: I took the night off from coding, not because I didn't want to, but because I want to aggregate the appropriate coding resources that will enable me to learn more efficiently moving forward. I did do more research and read reviews on Udacity's Front End Developer program.
+
+**Thoughts:** I'm seriously considering switching over to Udacity Front End Developer program course soon.
+
 ---
 
 ### Day 0: February 30, 2016 (Example 1)
