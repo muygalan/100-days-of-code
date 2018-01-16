@@ -35,6 +35,20 @@ Unfortunately, my live-server doesn't reload my page nor did a different plugin 
 
 **Thoughts:** I'm seriously considering switching over to Udacity Front End Developer program course soon.
 
+### Day 6: January 13th, 2018
+
+**Today's Progress**: R&R Day.
+
+### Day 7: January 14th, 2018
+
+**Today's Progress**: R&R Day.
+
+### Day 8: January 15th, 2018
+
+**Today's Progress**: I added a few Typora (markdown editor) themes to my PC. I also installed some themes and plugins for my Sublime Text 3 text editor. I went through a few Prog-8 Git courses.
+
+**Thoughts:** I feel like I need to brush up on my Git and Sublime Text skills before going full throttle into Front-End. 
+
 ---
 
 ### Day 0: February 30, 2016 (Example 1)
