@@ -49,6 +49,12 @@ Unfortunately, my live-server doesn't reload my page nor did a different plugin 
 
 **Thoughts:** I feel like I need to brush up on my Git and Sublime Text skills before going full throttle into Front-End. 
 
+### Day 9: January 16th, 2018
+
+**Today's Progress**: I completed the Command Line and Git courses on Progate.com!
+
+**Thoughts:** This was definitely a great refresher on essential commands I should know moving forward! :)
+
 ---
 
 ### Day 0: February 30, 2016 (Example 1)
