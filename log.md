@@ -55,6 +55,12 @@ Unfortunately, my live-server doesn't reload my page nor did a different plugin 
 
 **Thoughts:** This was definitely a great refresher on essential commands I should know moving forward! :)
 
+### Day 10: January 17th, 2018
+
+**Today's Progress**:OpenClassrooms: Finished "Creating Links" section. Udacity: Completed segments 3 - 11 under HTML Syntax.
+
+**Thoughts:** Still deliberating which is the best method for learning Front-End Development,
+
 ---
 
 ### Day 0: February 30, 2016 (Example 1)
