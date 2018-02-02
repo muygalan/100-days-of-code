@@ -1,65 +1,10 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 8th, 2018
+### Day 1: February 1st, 2018
 
-**Today's Progress**: Signed up for a 12-month Front-End Developer online course with an institution based in Europe called Open Classrooms. Off-the-bat I was given assignments such as: typing up a Word doc answering some questions, updating my resume, updating my linkedin, and creating a study journal (this 100-days-of-code repo will act as such.) 
+**Today's Progress**: I signed up for Udacity's 6-month Front End Development course. I originally signed up for Open Classrooms 12-month Front-End Development course, but ultimately decided it was not for me. I'm hoping as I continue along with Udacity I will find that it's presentation style is better fit for my learning. Today I completed the entire "HTML Syntax" track.
 
-Afterwards I learned some preliminary stuff regarding the differences between "the web" and "the internet." I also completed a short quiz and received 90%.
-
-**Thoughts:** Everything is so fresh and new. I feel like the information is being provided in bite-sized doses which is really nice and not too overwhelming. I'm interested to see how this curriculum pans out in the months to come. 😀
-
-
-### Day 2: January 9th, 2018
-
-**Today's Progress**: I completed my entire "Learn how to learn!" module and got 100% on 3 of my quizzes. I began the next module "Integrate a WordPress theme for a client" and opted to begin the HTML/CSS course first, but instead of completing it thoroughly I attempted to install a live-server from an old tutorial wrote up a while back. 
-
-Unfortunately, my live-server doesn't reload my page nor did a different plugin called Browser Sync work either. If I'm going to continue these modules, I prefer to have my web pages reload in real-time. Hum. A problem to be solved on another day.
-
-### Day 3: January 10th, 2018
-
-**Today's Progress**: I completed both the Your first web page in HTML and Organizing your text sections on (OC).
-
-**Thoughts:** Everything thus far is a reintroduction to what I already know, but may have forgotten due to months of not practicing the code. I can't help but feel there might be a better way to learn this material. I have been exposed to so many sources and methods of learning, I am questioning if I should reaasses and determine the most preferable way for me to learn.
-
-
-### Day 4: January 11th, 2018
-
-**Today's Progress**: I skivved Open Classrooms today and instead organized and reviewed 74 saved Web Development-related posts I had on Facebook. Additionally I reviewed a few Reddit posts re: preferred methods and websites to learn Front-End Development. I participated in a very brief introduction of Udacity's Front-End Development path and I was impressed by their cinematography and narration, but need to engage more with their interactive system to make a firm conclusion on if I should enroll with them instead.
-
-**Thoughts:** I need to thoroughly filter and review all my resources to determine which way of learning is best suitable for me.
-
-
-### Day 5: January 12th, 2018
-
-**Today's Progress**: I took the night off from coding, not because I didn't want to, but because I want to aggregate the appropriate coding resources that will enable me to learn more efficiently moving forward. I did do more research and read reviews on Udacity's Front End Developer program.
-
-**Thoughts:** I'm seriously considering switching over to Udacity Front End Developer program course soon.
-
-### Day 6: January 13th, 2018
-
-**Today's Progress**: R&R Day.
-
-### Day 7: January 14th, 2018
-
-**Today's Progress**: R&R Day.
-
-### Day 8: January 15th, 2018
-
-**Today's Progress**: I added a few Typora (markdown editor) themes to my PC. I also installed some themes and plugins for my Sublime Text 3 text editor. I went through a few Prog-8 Git courses.
-
-**Thoughts:** I feel like I need to brush up on my Git and Sublime Text skills before going full throttle into Front-End. 
-
-### Day 9: January 16th, 2018
-
-**Today's Progress**: I completed the Command Line and Git courses on Progate.com!
-
-**Thoughts:** This was definitely a great refresher on essential commands I should know moving forward! :)
-
-### Day 10: January 17th, 2018
-
-**Today's Progress**:OpenClassrooms: Finished "Creating Links" section. Udacity: Completed segments 3 - 11 under HTML Syntax.
-
-**Thoughts:** Still deliberating which is the best method for learning Front-End Development,
+**Thoughts:** Having had previous experience learning HTML in my past, it's honestly difficult for me to fall head over heels with any 'one' online course because I feel I have gained valuable bits of information from a culmination of resources (i.e. books, youtube, websites, udemy, etc.) No method seems to be one-stop shop, but I'm hoping Udacity proves to be a valuable investment.
 
 ---
 
