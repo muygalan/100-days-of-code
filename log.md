@@ -6,6 +6,12 @@
 
 **Thoughts:** Having had previous experience learning HTML in my past, it's honestly difficult for me to fall head over heels with any 'one' online course because I feel I have gained valuable bits of information from a culmination of resources (i.e. books, youtube, websites, udemy, etc.) No method seems to be one-stop shop, but I'm hoping Udacity proves to be a valuable investment.
 
+### Day 2: February 2nd, 2018
+
+**Today's Progress**: Today I completed the "HTML Syntax Problem Set". It featured an extension called the Udacity Front End Feedback Extension found in the Chrome Web Store. It basically gives you feedback on if you're coding the exercises correctly. (Pretty cool.) I went through and succeeding with the following: Making Header sizes 1-4, HTML Tree Structures, Hyperlinks, Images, Relatives/External Paths, Figure/Figcaption, and finally mockup to website.
+
+**Thoughts:** By the end of the this particual track, I must admit I am enjoying the flow and the learning process Udacity has implemented thus far. Fingers crossed this continues as such! ✌
+
 ---
 
 ### Day 0: February 30, 2016 (Example 1)
