@@ -12,6 +12,12 @@
 
 **Thoughts:** By the end of the this particual track, I must admit I am enjoying the flow and the learning process Udacity has implemented thus far. Fingers crossed this continues as such! ✌
 
+### Day 3: February 5th, 2018
+
+**Today's Progress**: Completed: An Article to Mockup, Getting Started with CSS, Attributes and Selectors, CSS Units, and CSS Colors.
+
+**Thoughts:** I'm amazed at how much code I actually have memorized deep down in the cellars of my mind. As I'm following along, a lot of the previous information I learned over the years suddenly resurfaced and thensome. I'm definitely rusty when it comes to HTML/CSS, but I truly due recall many of the tags and selectors being presented. Good stuff!
+
 ---
 
 ### Day 0: February 30, 2016 (Example 1)
