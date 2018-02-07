@@ -18,6 +18,14 @@
 
 **Thoughts:** I'm amazed at how much code I actually have memorized deep down in the cellars of my mind. As I'm following along, a lot of the previous information I learned over the years suddenly resurfaced and thensome. I'm definitely rusty when it comes to HTML/CSS, but I truly due recall many of the tags and selectors being presented. Good stuff!
 
+### Day 3: February 6th, 2018
+
+**Today's Progress**: Completed: CSS Syntax Problem Set which included: Style an Image (quiz), Style the Font (quiz), Writing Selectors, Using Attributes, a Slack Card (quiz), and a Udacity Site Header (quiz.)
+
+**Thoughts:** We delved more into developer tools for some of these quizzes which I wasn't too fond of (I prefer using an actual text editor - Sublime Text), but dev tools are a natural part of being a Front-End Developer and are important in the real world. I succeeded in all my quizzes with the exception of the Slack Card quiz. I need to revisit it, look into the forums, or consult my mentor for future help.
+
+I feel as if I had other things that prevented me from studying as long as I could have tonight, but I will be more conscientious of when I begin my studies.
+
 ---
 
 ### Day 0: February 30, 2016 (Example 1)
