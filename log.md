@@ -32,6 +32,12 @@ I feel as if I had other things that prevented me from studying as long as I cou
 
 **Thoughts:** Got to revisit and definitely learn a LOT of new Sublime Text 3 shortcuts. Hopefully I can memorize them all!
 
+### Day 6: February 8th, 2018
+
+**Today's Progress**: Completed my first project: Animal Trading Card.
+
+**Thoughts:** It took me about an hour to complete the project. Relatively easy, but had to look up a few CSS selectors. I felt like it was an appropriate first project to practice what I've learned. Waiting on someone to review my project within 24 hours. 
+
 ---
 
 ### Day 0: February 30, 2016 (Example 1)
