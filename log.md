@@ -38,6 +38,13 @@ I feel as if I had other things that prevented me from studying as long as I cou
 
 **Thoughts:** It took me about an hour to complete the project. Relatively easy, but had to look up a few CSS selectors. I felt like it was an appropriate first project to practice what I've learned. Waiting on someone to review my project within 24 hours. 
 
+
+### Day 7: February 13th, 2018
+
+**Today's Progress**: Completed "Why Responsive?" course and setup using dev tools on the mobile.
+
+**Thoughts:** This was a decent course as it showed me a few new features on using dev tools. I thought it was really cool how it showed me how to setup dev tools to by synced from my laptop to mobile device.
+
 ---
 
 ### Day 0: February 30, 2016 (Example 1)
