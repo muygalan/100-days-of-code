@@ -45,6 +45,12 @@ I feel as if I had other things that prevented me from studying as long as I cou
 
 **Thoughts:** This was a decent course as it showed me a few new features on using dev tools. I thought it was really cool how it showed me how to setup dev tools to by synced from my laptop to mobile device.
 
+### Day 8: February 14th, 2018
+
+**Today's Progress**: Completed "Start Small" course module.
+
+**Thoughts:** I was dreading and looking forward to this course. I understand the importance of responsive web design. And although this course was intended to be introductory to screen sizes and viewports, I felt the content was rushed over too quickly and confusing. They could have done a better job of explaining the topics a bit better, but that's just my 2cents. Hopefully the next lesson covers the material in a more understandable way. 
+
 ---
 
 ### Day 0: February 30, 2016 (Example 1)
