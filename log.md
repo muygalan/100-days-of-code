@@ -51,6 +51,12 @@ I feel as if I had other things that prevented me from studying as long as I cou
 
 **Thoughts:** I was dreading and looking forward to this course. I understand the importance of responsive web design. And although this course was intended to be introductory to screen sizes and viewports, I felt the content was rushed over too quickly and confusing. They could have done a better job of explaining the topics a bit better, but that's just my 2cents. Hopefully the next lesson covers the material in a more understandable way. 
 
+### Day 9: February 15th, 2018
+
+**Today's Progress**: Got 2/3 through the "Building Up" course odule.
+
+**Thoughts:** Media Queries and Breakpoints make sense and are confusing to me too. Again, I feel like its a lot to process for my feeble brain. I found myself searching Google for more in-depth articles that can "break" down these concepts further. Although I don't mind doing additional research, it kind of irritates me since I am paying for this course and expected for my to understand the material better without having to rely too much on external sources.
+
 ---
 
 ### Day 0: February 30, 2016 (Example 1)
