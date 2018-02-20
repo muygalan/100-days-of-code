@@ -57,6 +57,13 @@ I feel as if I had other things that prevented me from studying as long as I cou
 
 **Thoughts:** Media Queries and Breakpoints make sense and are confusing to me too. Again, I feel like its a lot to process for my feeble brain. I found myself searching Google for more in-depth articles that can "break" down these concepts further. Although I don't mind doing additional research, it kind of irritates me since I am paying for this course and expected for my to understand the material better without having to rely too much on external sources.
 
+
+### Day 10: February 19th, 2018
+
+**Today's Progress**: Completed the 1/3 "Building Up" course module and began the Common Responsive Patterns module.
+
+**Thoughts:** These past 2 modules have sucked. The breeze over the material so quickly and don't thoroughly cover the nuances that I KNOW media queries and flexbox have in their repertoire. I'm actually considering putting Udacity and hold and seeking books, videos, and other course to temporarily get a better understanding on this material. 
+
 ---
 
 ### Day 0: February 30, 2016 (Example 1)
