@@ -64,6 +64,12 @@ I feel as if I had other things that prevented me from studying as long as I cou
 
 **Thoughts:** These past 2 modules have sucked. The breeze over the material so quickly and don't thoroughly cover the nuances that I KNOW media queries and flexbox have in their repertoire. I'm actually considering putting Udacity and hold and seeking books, videos, and other course to temporarily get a better understanding on this material. 
 
+### Day 11: February 20th, 2018
+
+**Today's Progress**: Took a break from learning on Udacity and read some material on RWD from Shay Howe's website. I also started watching videos on Responsive Web Design from The Net Ninja's channel on YouTube and go through up to "Responsive Web Design Tutorial #5 - Media Queries"
+
+**Thoughts:** I have read from Shay Howe's website in the past and watched The Net Ninja videos before approx. 2-3 years ago. TNN has informative, bite-sized videos that are to the point, show you live examples, and include slides with text (for people like me who usually need to SEE words for retention purposes) and his content is free! I'm wondering if I should cancel my Udacity membership to cut costs and resort to free or inexpensive learning resources (e.g. Team Treehouse, Udacity, etc.) Time will tell. 
+
 ---
 
 ### Day 0: February 30, 2016 (Example 1)
