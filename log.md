@@ -76,6 +76,12 @@ I feel as if I had other things that prevented me from studying as long as I cou
 
 **Thoughts:** I didn't study code as much as I would have liked to tonight. I have a headache and feel a bit dizzy. On top of that I feel drained after a long day and I'm also knackered. Hopefully tomorrow I can focus a bit better!
 
+### Day 13: February 22nd, 2018
+
+**Today's Progress**: I didn't study code today, but I did add a lot of documentation to my mkdocs page that I'm building for the "Jekyll H2O Theme" doc. 
+
+**Thoughts:** I almost didn't code at all tonight (horrible headache), but I got the urge to work on my documentation. I also downloaded these free programming books from a Facebook Group I'm a member off. They are very well written and I look forward to reading them.
+
 ---
 
 ### Day 0: February 30, 2016 (Example 1)
