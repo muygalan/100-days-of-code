@@ -82,6 +82,12 @@ I feel as if I had other things that prevented me from studying as long as I cou
 
 **Thoughts:** I almost didn't code at all tonight (horrible headache), but I got the urge to work on my documentation. I also downloaded these free programming books from a Facebook Group I'm a member off. They are very well written and I look forward to reading them.
 
+### Day 14: February 26th, 2018
+
+**Today's Progress**: Woke up early in the AM and worked on my landing page for my personal website. Finish modifying the land page at night and pushed it up to Github.
+
+**Thoughts:** I wish I could take sole credit for the landing page, but the template was included with a CSS book I purchased. I did add a few of my own personal touches and felt it came out great. I need more time to review the book to properly understand all the concepts required to create the page from the ground up. 
+
 ---
 
 ### Day 0: February 30, 2016 (Example 1)
