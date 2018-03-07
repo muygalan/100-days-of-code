@@ -88,6 +88,16 @@ I feel as if I had other things that prevented me from studying as long as I cou
 
 **Thoughts:** I wish I could take sole credit for the landing page, but the template was included with a CSS book I purchased. I did add a few of my own personal touches and felt it came out great. I need more time to review the book to properly understand all the concepts required to create the page from the ground up. 
 
+### Day 15: March 6th, 2018
+
+**Today's Progress**: Purchased a discounted annual subscription of TeamTreehouse. Watched 4 "Windows Command Line Tutorial" videos from The New Boston on YouTube.
+
+**Thoughts:** I know it seems like I have't posted my progress in a while, but I have good reasons. I actually have been working on a few things on my Github account such as adding a "monthly" repo to review each month during the year with personal thoughts and events that happened throughout the year. (I just didn't feel compelled to add that information here, although I should have.)
+
+Secondly, I haven't been motivated to use Udacity since I encountered the fast pace regarding media queries and responsive websites section. I felt for the money I'm dishing out every month, I'm better off learning via cheaper or free resources such as TeamTreehouse, Udemy, and even YouTube. There is content available out there that suits my learning style much better. My primary fear is not having a mentor or a forum that can address my coding issues in a timely fashion. 
+
+My other concern is not being able to build solid projects through independent learning, but I may have found some reputable Udemy courses online that can help in that area, I just need to do more research. I also am building my own Front-End Developer curriculum.
+
 ---
 
 ### Day 0: February 30, 2016 (Example 1)
