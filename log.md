@@ -98,6 +98,12 @@ Secondly, I haven't been motivated to use Udacity since I encountered the fast p
 
 My other concern is not being able to build solid projects through independent learning, but I may have found some reputable Udemy courses online that can help in that area, I just need to do more research. I also am building my own Front-End Developer curriculum.
 
+### Day 16: March 7th, 2018
+
+**Today's Progress**: Completed Progate's command line course. Added a "command" directory to my mkdocs with a bunch of common bash/terminal commands. Watched 2 more "Windows Command Line Tutorial" videos from YouTube.
+
+**Thoughts:** I typed up a lot of documentation, but felt I could being doing much more. (I'm just super tired.)
+
 ---
 
 ### Day 0: February 30, 2016 (Example 1)
