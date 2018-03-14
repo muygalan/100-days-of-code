@@ -104,6 +104,18 @@ My other concern is not being able to build solid projects through independent l
 
 **Thoughts:** I typed up a lot of documentation, but felt I could being doing much more. (I'm just super tired.)
 
+### Day 17: March 12th, 2018
+
+**Today's Progress**: I watched a Github for Beginners video on vimeo.
+
+**Thoughts:** Surprisingly a quick informative video on utilizing some of the features on Github. Unfortunately I was very knackered (early morning; gym day) and couldn't continue doing other code-stuff. 
+
+### Day 18: March 13th, 2018
+
+**Today's Progress**: Partially started Wes Bos' "Command Line Power User" videos. Realized I couldn't easily install "oh my zsh" on Windows 10. Womp! Womp!
+
+**Thoughts:** I really hate being unable to install something. I feel as if I have a strong inherent will to figure things out, but in this case, I'm hitting oh my zsh with a hard PASS. The reason being: I'm happy with conemu without all those extra thrills...
+
 ---
 
 ### Day 0: February 30, 2016 (Example 1)
