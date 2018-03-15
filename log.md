@@ -116,6 +116,12 @@ My other concern is not being able to build solid projects through independent l
 
 **Thoughts:** I really hate being unable to install something. I feel as if I have a strong inherent will to figure things out, but in this case, I'm hitting oh my zsh with a hard PASS. The reason being: I'm happy with conemu without all those extra thrills...
 
+### Day 19: March 14th, 2018
+
+**Today's Progress**: Added a shortcut to Sublime Text 3 that can close projects. Installed "Hotel" for command prompt. Added Jekyll-RSS to blog, added Jekyll-RSS to mkdocs, added Google Analytics to mkdocs, added Front-End Development to mkdocs . . . 
+
+**Thoughts:** Woke up 5am and started to get busy. I honestly haven't been studying code as dilligently as I should. The reason being is I'm more concerned with command line, note-taking, and other configurations to make my life easier down the road. When the time comes to dive into hardcore studying, I will be better equip to jot down and access information. 👍
+
 ---
 
 ### Day 0: February 30, 2016 (Example 1)
