@@ -122,6 +122,12 @@ My other concern is not being able to build solid projects through independent l
 
 **Thoughts:** Woke up 5am and started to get busy. I honestly haven't been studying code as dilligently as I should. The reason being is I'm more concerned with command line, note-taking, and other configurations to make my life easier down the road. When the time comes to dive into hardcore studying, I will be better equip to jot down and access information. 👍
 
+### Day 20: March 15th, 2018
+
+**Today's Progress**: Added "Filebrowser" to mkdocs >> command line.
+
+**Thoughts:** Another early morning. Couldn't quite get into gear as quickly as I wanted, but glad I did something. I really need to devote time on Jekyll SEO since I tested a Twitter tweet using a blog post url and the card didn't generate correctly.
+
 ---
 
 ### Day 0: February 30, 2016 (Example 1)
