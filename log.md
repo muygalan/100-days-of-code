@@ -130,7 +130,7 @@ My other concern is not being able to build solid projects through independent l
 
 ### Day 21: April 2nd, 2018
 
-**Today's Progress**: Began Team Treehouse's "Git Basics" course and went through a view preliminary video modules. I also spent some time configuring this program I purchased called Freeter. Added tabs with Team Treehouse links, Sublime Text, and Command Line shortcuts for easy access.
+**Today's Progress**: Began Team Treehouse's "Git Basics" course and went through a few preliminary video modules. I also spent some time configuring this program I purchased called Freeter. Added tabs with Team Treehouse links, Sublime Text, and Command Line shortcuts for easy access.
 
 **Thoughts:** It's been little over half a month since I conscientiously studied or toyed with code. (Kinda-sorta - I have actually been adding to my own personal mkdocs.) Although I'm somewhat familiar with the very basics of Git, I definitely can use a refresher and especially want to master more of the essential functions such as branching and merging. I also have been configuring a new dashboard program downloaded called Freeter. It's amazing thus far (although it has some shortcomings.)
 
