@@ -128,6 +128,12 @@ My other concern is not being able to build solid projects through independent l
 
 **Thoughts:** Another early morning. Couldn't quite get into gear as quickly as I wanted, but glad I did something. I really need to devote time on Jekyll SEO since I tested a Twitter tweet using a blog post url and the card didn't generate correctly.
 
+### Day 21: April 2nd, 2018
+
+**Today's Progress**: Began Team Treehouse's "Git Basics" course and went through a view preliminary video modules. I also spent some time configuring this program I purchased called Freeter. Added tabs with Team Treehouse links, Sublime Text, and Command Line shortcuts for easy access.
+
+**Thoughts:** It's been little over half a month since I conscientiously studied or toyed with code. (Kinda-sorta - I have actually been adding to my own personal mkdocs.) Although I'm somewhat familiar with the very basics of Git, I definitely can use a refresher and especially want to master more of the essential functions such as branching and merging. I also have been configuring a new dashboard program downloaded called Freeter. It's amazing thus far (although it has some shortcomings.)
+
 ---
 
 ### Day 0: February 30, 2016 (Example 1)
