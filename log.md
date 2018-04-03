@@ -134,6 +134,12 @@ My other concern is not being able to build solid projects through independent l
 
 **Thoughts:** It's been little over half a month since I conscientiously studied or toyed with code. (Kinda-sorta - I have actually been adding to my own personal mkdocs.) Although I'm somewhat familiar with the very basics of Git, I definitely can use a refresher and especially want to master more of the essential functions such as branching and merging. I also have been configuring a new dashboard program downloaded called Freeter. It's amazing thus far (although it has some shortcomings.)
 
+### Day 22: April 3rd, 2018
+
+**Today's Progress**: Completed the first full module for Treehouse's "Git Basics!"
+
+**Thoughts:** 2nd day in a row I have awoken at 5am to study code. At this point I'm just happy to be consistent thus far. The course was a good recap of some commands I already knew and reintroduction to forgotten commands. So far so good. Next up: branches.
+
 ---
 
 ### Day 0: February 30, 2016 (Example 1)
