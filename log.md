@@ -140,6 +140,12 @@ My other concern is not being able to build solid projects through independent l
 
 **Thoughts:** 2nd day in a row I have awoken at 5am to study code. At this point I'm just happy to be consistent thus far. The course was a good recap of some commands I already knew and reintroduction to forgotten commands. So far so good. Next up: branches.
 
+### Day 23: April 4th, 2018
+
+**Today's Progress**: Completed Git Basics: Branches and Merge courses!
+
+**Thoughts:** 3rd day of waking up early! Mind over matter. The biggest hurdle is competing with my brain and body over sleep. I feel accomplished and like I'm _actually_ learning. 😁
+
 ---
 
 ### Day 0: February 30, 2016 (Example 1)
