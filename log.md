@@ -146,6 +146,12 @@ My other concern is not being able to build solid projects through independent l
 
 **Thoughts:** 3rd day of waking up early! Mind over matter. The biggest hurdle is competing with my brain and body over sleep. I feel accomplished and like I'm _actually_ learning. 😁
 
+### Day 24: April 5th, 2018
+
+**Today's Progress**: Reviewed the Remote course from Git Basics. I'm nearly finished with this module.
+
+**Thoughts:** 4th day of waking up early! I'm onto something, although today was tougher than usual (slept poorly last night.) This course was fine up until a certain point. I practiced cloning and linking 2 local repositories, but the master refused to link to the clone I made of it on my computer. SUPER frustrating. Its things like this that impede my progress, but I will attempt to find a solution later.
+
 ---
 
 ### Day 0: February 30, 2016 (Example 1)
