@@ -152,6 +152,12 @@ My other concern is not being able to build solid projects through independent l
 
 **Thoughts:** 4th day of waking up early! I'm onto something, although today was tougher than usual (slept poorly last night.) This course was fine up until a certain point. I practiced cloning and linking 2 local repositories, but the master refused to link to the clone I made of it on my computer. SUPER frustrating. Its things like this that impede my progress, but I will attempt to find a solution later.
 
+### Day 25: April 6th, 2018
+
+**Today's Progress**: Went over creating a Github account and briefly reviewed some of its features. Also covered Git Flow which I frankly did not pay too much attention to.... Successfully completed the "Git Basics" course on Team Treehouse! 
+
+**Thoughts:** My 5-day week of waking up early and coding has been a success! I hope I can continue the momentum next week. Looking forward to completing the other Git and Github-related courses on Treehouse before diving into HTML and CSS.
+
 ---
 
 ### Day 0: February 30, 2016 (Example 1)
