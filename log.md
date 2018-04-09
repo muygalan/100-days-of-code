@@ -158,6 +158,13 @@ My other concern is not being able to build solid projects through independent l
 
 **Thoughts:** My 5-day week of waking up early and coding has been a success! I hope I can continue the momentum next week. Looking forward to completing the other Git and Github-related courses on Treehouse before diving into HTML and CSS.
 
+### Day 26: April 9th, 2018
+
+**Today's Progress**: Began a new course on Team Treehouse called "Git Introduction." I am trying to soak up was much information on using git and github before I dive into HTML/CSS. So far it was pretty basic stuff with the exception of one or two new commands. Still a very decent introduction. I completed the first track this morning!
+
+**Thoughts:** It feels so good to be wake up at 5AM again. This is my 2nd week of committing (no pun intended) to an early morning schedule. I am so proud of myself and hope this routine continues perpetually. Didn't feel too groggy this morning either. 💪
+
+
 ---
 
 ### Day 0: February 30, 2016 (Example 1)
