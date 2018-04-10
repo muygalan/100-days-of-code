@@ -164,6 +164,11 @@ My other concern is not being able to build solid projects through independent l
 
 **Thoughts:** It feels so good to be wake up at 5AM again. This is my 2nd week of committing (no pun intended) to an early morning schedule. I am so proud of myself and hope this routine continues perpetually. Didn't feel too groggy this morning either. 💪
 
+### Day 27: April 10th, 2018
+
+**Today's Progress**: Today was phenomenal. I covered a lot of material in the Git Introduction course. Learned about removing, renaming, unstaging, discarding file modifications, undoing commits, and cloning local repos.
+
+**Thoughts:** I'm learning so much in this course. I also feel it helps when I take notes; especially for new commands I'm unfamiliar with. Super proud of myself for staying consistent. I just need to continue this way for the rest of the year. 
 
 ---
 
