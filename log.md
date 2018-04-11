@@ -170,6 +170,12 @@ My other concern is not being able to build solid projects through independent l
 
 **Thoughts:** I'm learning so much in this course. I also feel it helps when I take notes; especially for new commands I'm unfamiliar with. Super proud of myself for staying consistent. I just need to continue this way for the rest of the year. 
 
+### Day 28: April 11th, 2018
+
+**Today's Progress**: Completed the Introduction to Git course!
+
+**Thoughts:** This morning was a bit rough to switch into gear. (Had a tough niht before.) The course actually help me semi-understand an issue I was encountering with my previous Git course - which is a plus! I think I'm going to begin a Github course tomorrow.
+
 ---
 
 ### Day 0: February 30, 2016 (Example 1)
