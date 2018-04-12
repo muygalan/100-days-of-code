@@ -176,6 +176,12 @@ My other concern is not being able to build solid projects through independent l
 
 **Thoughts:** This morning was a bit rough to switch into gear. (Had a tough niht before.) The course actually help me semi-understand an issue I was encountering with my previous Git course - which is a plus! I think I'm going to begin a Github course tomorrow.
 
+### Day 29: April 12th, 2018
+
+**Today's Progress**: Started a new course on Team Treehouse called GitHub Basics.
+
+**Thoughts:** This course so far has been a rehash of some things I already know, but also reinforced some things and also went over other features such as issues and pull requests that I'm not 100% confident with just yet. 👍
+
 ---
 
 ### Day 0: February 30, 2016 (Example 1)
