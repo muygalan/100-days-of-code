@@ -182,6 +182,12 @@ My other concern is not being able to build solid projects through independent l
 
 **Thoughts:** This course so far has been a rehash of some things I already know, but also reinforced some things and also went over other features such as issues and pull requests that I'm not 100% confident with just yet. 👍
 
+### Day 30: April 13th, 2018
+
+**Today's Progress**: Learned how to handle merge conflicts, merge pull requests, create an organization on Github, create a team etc.
+
+**Thoughts:** Woo hoo! 30 documented days in. It's been an interesting journey thus far. I have found Treehouse to be my favorite resource as far as content presentation and its proving to be worth the investment. I'm looking forward to launching my personal blog and learning more about Front End Development soon. 
+
 ---
 
 ### Day 0: February 30, 2016 (Example 1)
