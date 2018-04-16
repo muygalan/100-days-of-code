@@ -188,6 +188,12 @@ My other concern is not being able to build solid projects through independent l
 
 **Thoughts:** Woo hoo! 30 documented days in. It's been an interesting journey thus far. I have found Treehouse to be my favorite resource as far as content presentation and its proving to be worth the investment. I'm looking forward to launching my personal blog and learning more about Front End Development soon. 
 
+### Day 31: April 16th, 2018
+
+**Today's Progress**: Learned how to create and issue on Github and Completed Github Basics. Started Markdown Basics: Learned about Heading, Bold, Italtics, Horizontal Rules, Quotes, Nesting Lists...
+
+**Thoughts:** I use markdown quite often already, but its nice to have a refresher and occasionally point out something that was as transparent before. I feel like once this course is done I will be getting into the Front End Track soon. 👍
+
 ---
 
 ### Day 0: February 30, 2016 (Example 1)
