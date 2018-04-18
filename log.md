@@ -194,6 +194,12 @@ My other concern is not being able to build solid projects through independent l
 
 **Thoughts:** I use markdown quite often already, but its nice to have a refresher and occasionally point out something that was as transparent before. I feel like once this course is done I will be getting into the Front End Track soon. 👍
 
+### Day 32: April 18th, 2018
+
+**Today's Progress**: Completed Markdown Basics! ✔ And began Introduction to HTML and CSS on Treehouse. Currently working on Building Web Pages with HTML and CSS.
+
+**Thoughts:** I'm gutted I skipped coding yesterday, but I have a legit reason. I woke up at 5AM with the migraine from hell. It was so bad I came to work late and felt shitty the entire day. I learned a few tricks from the markdown course. I'm slightly disappointed how the presenter for the Introduction to HTML and CSS jumped into the initial topics, but I can see why she chose that route. 
+
 ---
 
 ### Day 0: February 30, 2016 (Example 1)
