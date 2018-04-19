@@ -200,6 +200,12 @@ My other concern is not being able to build solid projects through independent l
 
 **Thoughts:** I'm gutted I skipped coding yesterday, but I have a legit reason. I woke up at 5AM with the migraine from hell. It was so bad I came to work late and felt shitty the entire day. I learned a few tricks from the markdown course. I'm slightly disappointed how the presenter for the Introduction to HTML and CSS jumped into the initial topics, but I can see why she chose that route. 
 
+### Day 33: April 19th, 2018
+
+**Today's Progress**: Continued with Introduction to HTML and CSS on Treehouse. Earned the HTML: The Structural Foundation of Web Pages and Applications and Make It Beautiful With CSS badges.
+
+**Thoughts:** Again, this course is "okay." I guess I'm more of a technical person and prefer things to be broken down more in-depth with definitions and such. After eventually finishing this course I may deviate from Treehouse (just for a bit) to seek other thorough reading material before returning back. 
+
 ---
 
 ### Day 0: February 30, 2016 (Example 1)
