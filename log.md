@@ -206,6 +206,12 @@ My other concern is not being able to build solid projects through independent l
 
 **Thoughts:** Again, this course is "okay." I guess I'm more of a technical person and prefer things to be broken down more in-depth with definitions and such. After eventually finishing this course I may deviate from Treehouse (just for a bit) to seek other thorough reading material before returning back. 
 
+### Day 34: April 20th, 2018
+
+**Today's Progress**: Completed  Introduction to HTML and CSS, began HTML Basics!
+
+**Thoughts:** Another successful week of coding at 5AM! (Except for Tuesday). I feel like things are really coming along. I do believe I should utilize other resources in addition to Treehouse to reinforce my understanding of the concepts.
+
 ---
 
 ### Day 0: February 30, 2016 (Example 1)
