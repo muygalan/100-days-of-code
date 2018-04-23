@@ -212,6 +212,12 @@ My other concern is not being able to build solid projects through independent l
 
 **Thoughts:** Another successful week of coding at 5AM! (Except for Tuesday). I feel like things are really coming along. I do believe I should utilize other resources in addition to Treehouse to reinforce my understanding of the concepts.
 
+### Day 35: April 23rd, 2018
+
+**Today's Progress**: Learned about: Headings, Lists, Unordered Lists, earned the Getting Started with HTML badge, Header, Footer, Section, Article, Nav, and Aside tags.
+
+**Thoughts:** Week number 4 of successfully waking up at 5AM to code! I feel like I'm really getting into it now. Section, Aside, Article, and Nav tags have always been a seemingly easy, yet confusing part of HTML to me. Sometimes I second-guess when to use them appropriately. Hopefully with more practice I'll become more comfortable in knowing when to implement them into my own websites.
+
 ---
 
 ### Day 0: February 30, 2016 (Example 1)
