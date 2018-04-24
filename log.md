@@ -218,6 +218,12 @@ My other concern is not being able to build solid projects through independent l
 
 **Thoughts:** Week number 4 of successfully waking up at 5AM to code! I feel like I'm really getting into it now. Section, Aside, Article, and Nav tags have always been a seemingly easy, yet confusing part of HTML to me. Sometimes I second-guess when to use them appropriately. Hopefully with more practice I'll become more comfortable in knowing when to implement them into my own websites.
 
+### Day 36: April 24th, 2018
+
+**Today's Progress**: Learned about: Main tag, Header, Footer, earned the Structuring Your Content badge, Images, Figures, and Breaks.
+
+**Thoughts:** I still don't feel entirely confident in using main, article, and section tags in a real-world scenario yet, but I'm still trucking with everything else.
+
 ---
 
 ### Day 0: February 30, 2016 (Example 1)
