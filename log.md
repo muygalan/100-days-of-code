@@ -224,6 +224,12 @@ My other concern is not being able to build solid projects through independent l
 
 **Thoughts:** I still don't feel entirely confident in using main, article, and section tags in a real-world scenario yet, but I'm still trucking with everything else.
 
+### Day 37: April 25th, 2018
+
+**Today's Progress**: Covered the following: Add Meaning to Words with Text Level Elements, earned the Images, Text and Links badge, root relative path "/" then page/file name, link to email, HTML entities, and Completed HTML Basics!
+
+**Thoughts:** Now that I have completed the HTML Basics course, I might hit the "pause" button and start looking into some additional reading material to solidify the material I have just covered. 🤓
+
 ---
 
 ### Day 0: February 30, 2016 (Example 1)
