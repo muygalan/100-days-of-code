@@ -230,6 +230,12 @@ My other concern is not being able to build solid projects through independent l
 
 **Thoughts:** Now that I have completed the HTML Basics course, I might hit the "pause" button and start looking into some additional reading material to solidify the material I have just covered. 🤓
 
+### Day 38: April 30th, 2018
+
+**Today's Progress**: I took 2 weekdays off, but now I'm back at it. I knew I would be utilizing a different resource (ebook), so I wanted to start off a new week with a fresh orientation in lieu of continuing off the same week where I had been watching TreeHouse videos. The book is called "HTML 5 Notes for Professionals."
+
+**Thoughts:** The book is actually quite clear and concise. I appreciate its straight-forward style of writing and it doesn't appear to be overly verbose like most technical books. My mind needs to become accostumed to reading this type of material so early in the morning (esp. w/o coffee), but I'm sure I'll manage. Although video content is easier to sift through since it requires less effort, I do enjoy books because I can see and retain definitions for better comprehension. 
+
 ---
 
 ### Day 0: February 30, 2016 (Example 1)
