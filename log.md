@@ -236,6 +236,12 @@ My other concern is not being able to build solid projects through independent l
 
 **Thoughts:** The book is actually quite clear and concise. I appreciate its straight-forward style of writing and it doesn't appear to be overly verbose like most technical books. My mind needs to become accostumed to reading this type of material so early in the morning (esp. w/o coffee), but I'm sure I'll manage. Although video content is easier to sift through since it requires less effort, I do enjoy books because I can see and retain definitions for better comprehension. 
 
+### Day 39: May 1st, 2018
+
+**Today's Progress**: HTML 5 Notes for Professionals: Chapter 6: Anchors and Hyperlinks & Chapter 7: Lists
+
+**Thoughts:** I a lot of extra cool things about anchors and lists that I never knew before. Some practical and some I'll never use. Either way, I feel its good to expose yourself to what can be done in HTML for future use. 
+
 ---
 
 ### Day 0: February 30, 2016 (Example 1)
